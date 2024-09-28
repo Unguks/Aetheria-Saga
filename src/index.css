@@ -1,0 +1,14 @@
+#game {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+  }
+  #player, #enemy {
+    border: 1px solid #000;
+    padding: 20px;
+    text-align: center;
+  }
+  button {
+    margin: 10px;
+  }
+  
